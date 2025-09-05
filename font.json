@@ -1,6 +1,6 @@
  
-  "name" : "FitTorrents",
-  "downloads": 
+  {"name":"FitTorrents",
+	"downloads":[
     {
       "title": "Hollow Knight: Silksong v1.0.28324 [Fitgirl]",
       "uris": [
@@ -168,4 +168,6 @@
       ],
       "uploadDate": "2024-09-05T10:00:00.000Z",
       "fileSize": ""
-    },
+    }
+  ]
+}
